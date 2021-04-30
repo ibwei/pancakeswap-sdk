@@ -1,7 +1,7 @@
 {
-  "name": "@pancakeswap-libs/sdk",
+  "name": "kccswap-sdk",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "0.0.6",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
