@@ -1,16 +1,17 @@
 {
-  "name": "kccswap-sdk",
+  "name": "kccswap-testnet-sdk",
   "license": "MIT",
   "version": "0.0.6",
   "description": "🛠 An SDK for building applications on top of kccswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "repository": "https://github.com/ibwei/pancakeswap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "kccswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
